@@ -203,7 +203,7 @@
 				</div>
 			</div>
 		    <div id="footer" class="row-fluid">
-				Copyright &copy; 2015-${fns:getConfig('copyrightYear')} ${fns:getConfig('productName')} - Powered By <a href="#" target="_blank">多美妈</a> ${fns:getConfig('version')}
+				Copyright &copy; 2015-${fns:getConfig('copyrightYear')} ${fns:getConfig('productName')} - Powered By <a href="#" target="_blank">dmm-framework</a> ${fns:getConfig('version')}
 			</div>
 		</div>
 	</div>
